@@ -296,7 +296,7 @@
                 <span class="sub-title mar-bottom-bigger">Tem um projeto emocionante? Vamos conversar</span>
                 <div class="row">
                     <div class="col-md-6 col-sm-12 container-left cntct-form">
-                        <form class="contact-form">
+                        <form class="contact-form" action="https://formspree.io/kaio.f.roch@gmail.com" method="POST">
                             <div class="row">
                                 <div class="col-sm-12 pad-bottom-bigger form-item">
                                     <input type="text" name="Name" placeholder="Seu nome">
@@ -308,9 +308,10 @@
                                     <input type="email" name="Email" placeholder="E-mail">
                                 </div>
                                 <div class="col-sm-12 form-item">
-                                    <textarea placeholder="Mensagem"></textarea>
+                                    <textarea placeholder="Mensagem" name="Message"></textarea>
                                 </div>
                                 <div class="col-lg-5 col-md-5 send-btn">
+                                    <input type="hidden" name="_next" value="https://kaiorocha.github.io/thanks.html" />
                                     <input type="submit" value="ENVIAR MENSAGEM">
                                 </div>
                             </div>
@@ -385,9 +386,6 @@
 
     <!-- Add WOW main JS files -->
     <script type="text/javascript" src="js/wow.min.js"></script>
-
-    <!-- Map -->
-     <script type="text/javascript" src="js/maps.js"></script>
         
 </body>
 

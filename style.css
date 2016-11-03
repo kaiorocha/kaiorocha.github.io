@@ -179,12 +179,12 @@ table {
 
 ::-moz-selection {
     color: #fff;
-    background-color: #07cb79;
+    background-color: #0885ff;
 }
 
 ::selection {
     color: #fff;
-    background-color: #07cb79;
+    background-color: #0885ff;
 }
 
 
@@ -236,7 +236,7 @@ h4 {
     font-size: 14px;
     line-height: 20px;
     font-weight: 800;
-    color: #07cb79;
+    color: #0885ff;
     margin-bottom: 10px;
 }
 
@@ -255,7 +255,7 @@ h6 {
 }
 
 a {
-    color: #07cb79;
+    color: #0885ff;
     text-decoration: none;
 }
 
@@ -524,7 +524,7 @@ p {
 }
 
 .green-color {
-    color: #07cb79;
+    color: #0885ff;
 }
 
 .text-success {
@@ -803,9 +803,9 @@ a.text-info:focus {
 
 .mountain-meadow-button a {
     color: #fff;
-    background: #07cb79;
+    background: #0885ff;
     display: block;
-    border: 1px solid #07cb79;
+    border: 1px solid #0885ff;
     letter-spacing: 1px;
     font-weight: 700;
     transition: .5s all;
@@ -820,7 +820,7 @@ a.text-info:focus {
 .contact-form input[type="submit"]:hover,
 .contact-form input[type="submit"]:active,
 .contact-form input[type="submit"]:focus {
-    border: 1px solid #07cb79;
+    border: 1px solid #0885ff;
     color: #727272;
     background: transparent
 }
@@ -829,7 +829,7 @@ a.text-info:focus {
     color: #333;
     background: #fff;
     display: block;
-    border: 1px solid #07cb79;
+    border: 1px solid #0885ff;
     color: #727272;
     letter-spacing: 1.2px;
     padding: 14px 24px;
@@ -886,8 +886,8 @@ body {
 }
 
 .button-group .button.is-checked {
-    color: #07cb79;
-    border-bottom: 3px solid #07cb79;
+    color: #0885ff;
+    border-bottom: 3px solid #0885ff;
 }
 
 .button-group .button:last-child {
@@ -951,8 +951,8 @@ body {
 }
 
 .button-group .button:hover {
-    border-bottom: 3px solid #07cb79;
-    color: #07cb79
+    border-bottom: 3px solid #0885ff;
+    color: #0885ff
 }
 
 
@@ -1060,7 +1060,7 @@ body {
 
 .bx-wrapper .bx-pager.bx-default-pager a:hover,
 .bx-wrapper .bx-pager.bx-default-pager a.active {
-    background: #07cb79;
+    background: #0885ff;
     transition: .5s all;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
@@ -1217,7 +1217,7 @@ body {
 }
 
 .bottom-border {
-    border-bottom: 4px solid #07cb79
+    border-bottom: 4px solid #0885ff
 }
 
 .bottom-border-light {
@@ -1277,7 +1277,7 @@ header.main-header.darkHeader {
 .main-menu .navbar-default .navbar-nav>li.active > a,
 .main-menu .navbar-default .navbar-nav>li.active:hover > a {
     background-color: transparent;
-    border-bottom: 3px solid #07cb79;
+    border-bottom: 3px solid #0885ff;
     color: #e8e8e8
 }
 
@@ -1312,7 +1312,7 @@ header.main-header.darkHeader {
 
 .main-menu ul li a:hover,
 .main-menu .navbar-default .navbar-nav>li>a:hover {
-    border-bottom: 3px solid #07cb79
+    border-bottom: 3px solid #0885ff
 }
 
 .header-right {
@@ -1337,7 +1337,7 @@ header.main-header.darkHeader {
 .responsive-menu-btn i b {
     display: block;
     height: 2px;
-    background: #07cb79;
+    background: #0885ff;
     width: 35px;
     margin: 7px auto;
     transition: .2s all;
@@ -1429,12 +1429,12 @@ header.main-header.darkHeader {
 .banner-container {
     padding: 46px 90px 0 67px;
     background: #fff;
-    border-top: 9px solid #07cb79;
+    border-top: 9px solid #0885ff;
     -moz-box-shadow: 0 2px 30px 5px #333;
     -webkit-box-shadow: 0 2px 30px 5px #333;
     box-shadow: 0 2px 30px 5px rgba(51, 51, 51, 0.38);
     display: inline-block;
-    margin-top: 140px;
+    margin-top: 50px;
     vertical-align: bottom
 }
 
@@ -1455,7 +1455,7 @@ header.main-header.darkHeader {
 
 .banner-subhead {
     font-size: 16px;
-    color: #07cb79;
+    color: #0885ff;
     margin-bottom: 38px;
     display: block;
     margin-top: 11px;
@@ -1467,7 +1467,7 @@ header.main-header.darkHeader {
 }
 
 .white-button a:hover {
-    background: #07cb79;
+    background: #0885ff;
     color: #fff
 }
 
@@ -1566,7 +1566,7 @@ header.main-header.darkHeader {
 
 .about-social-icon .icon a:hover i,
 .about-social-icon a:hover .fIcon {
-    color: #07cb79;
+    color: #0885ff;
     text-decoration: none
 }
 
@@ -1636,7 +1636,7 @@ header.main-header.darkHeader {
 
 .services .fIcon {
     font-size: 46px;
-    color: #07cb79
+    color: #0885ff
 }
 
 
@@ -1646,7 +1646,7 @@ header.main-header.darkHeader {
 /*expertise css*/
 
 .expertise-container .progress-bar {
-    background: #07cb79
+    background: #0885ff
 }
 
 .experience h4 {
@@ -1654,7 +1654,7 @@ header.main-header.darkHeader {
 }
 
 .experience .box .box-cont {
-    border-left: 4px solid #07cb79
+    border-left: 4px solid #0885ff
 }
 
 .expertise-proc {
@@ -1677,7 +1677,7 @@ label.progress-head {
 
 .box .box-cont {
     padding: 38px 40px 28px;
-    border-left: 2px solid #07cb79;
+    border-left: 2px solid #0885ff;
     margin-left: 17px;
     background: #fff
 }
@@ -1838,7 +1838,7 @@ label.progress-head {
 }
 
 .progress-bar {
-    background: #07cb79
+    background: #0885ff
 }
 
 .testimonials p {
@@ -1963,7 +1963,7 @@ label.progress-head {
 .priceBox h2 {
     font-weight: 900;
     font-size: 50px;
-    color: #07cb79;
+    color: #0885ff;
     letter-spacing: 0;
 }
 
@@ -1981,7 +1981,7 @@ label.progress-head {
 .priceBox .buyBtn {
     display: inline-block;
     text-align: center;
-    background: #07cb79;
+    background: #0885ff;
     color: #fff;
     text-transform: uppercase;
     font-size: 18px;
@@ -1999,7 +1999,7 @@ label.progress-head {
 .priceBox .buyBtn:hover,
 .priceBox .buyBtn:active,
 .priceBox .buyBtn:focus {
-    border: 1px solid #07cb79;
+    border: 1px solid #0885ff;
     color: #727272;
     background-color: transparent;
     text-decoration: none
@@ -2007,11 +2007,11 @@ label.progress-head {
 
 .priceBox.hourly {
     border: 0;
-    border-bottom: 2px solid #07cb79;
+    border-bottom: 2px solid #0885ff;
 }
 
 .priceBox.hourly .price-top {
-    background-color: #07cb79;
+    background-color: #0885ff;
     padding-bottom: 27px;
 }
 
@@ -2079,7 +2079,7 @@ label.progress-head {
 }
 
 .priceBox.hourly:hover {
-    border-bottom-color: #07cb79;
+    border-bottom-color: #0885ff;
 }
 
 .pricing-plans .row {
@@ -2101,7 +2101,7 @@ label.progress-head {
     padding: 40px 40px 37px;
     min-width: 521px;
     border: 1px solid #f1f1f1;
-    border-bottom: 4px solid #07cb79;
+    border-bottom: 4px solid #0885ff;
     margin-top: -28px;
     transition: .5s all;
     -webkit-transition: .5s all;
@@ -2158,12 +2158,12 @@ label.progress-head {
 .blog-bottom span a:hover,
 .blog-bottom span a:active,
 .blog-bottom span a:focus {
-    color: #07cb79;
+    color: #0885ff;
     text-decoration: none
 }
 
 .blog-box:hover h3 a {
-    color: #07cb79;
+    color: #0885ff;
     transition: .5s all;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
@@ -2187,7 +2187,7 @@ label.progress-head {
 .blog-box:hover .blog-cont {
     -moz-box-shadow: 0 5px 38px 2px rgba(0, 0, 0, 0.10);
     border-color: transparent;
-    border-bottom-color: #07cb79;
+    border-bottom-color: #0885ff;
     -webkit-box-shadow: 0 5px 38px 2px rgba(0, 0, 0, 0.10);
     box-shadow: 0 5px 38px 2px rgba(0, 0, 0, 0.10);
     transition: .5s all;
@@ -2232,7 +2232,7 @@ label.progress-head {
 .contact-right {
     padding: 40px!important;
     border: 1px solid #f1f1f1;
-    border-bottom: 4px solid #07cb79;
+    border-bottom: 4px solid #0885ff;
     border-top: 0;
     margin: -2px 0 0
 }
@@ -2260,7 +2260,7 @@ label.progress-head {
     text-align: center;
     max-width: 182px;
     font-weight: 400;
-    background: #07cb79;
+    background: #0885ff;
     color: #fff;
     border: none;
     margin-top: 45px;
@@ -2276,7 +2276,7 @@ label.progress-head {
 }
 
 .contact-form input:focus {
-    border-color: #07cb79
+    border-color: #0885ff
 }
 
 .contact-right-details {
@@ -2301,12 +2301,12 @@ label.progress-head {
 }
 
 .contact-right-details a:hover {
-    color: #07cb79;
+    color: #0885ff;
     text-decoration: none
 }
 
 .contact-form textarea:focus {
-    border-color: #07cb79;
+    border-color: #0885ff;
     transition: .9s all;
     -webkit-transition: .9s all;
     -moz-transition: .9s all;
@@ -2345,7 +2345,7 @@ label.progress-head {
 }
 
 .footer-icon a:hover {
-    color: #07cb79;
+    color: #0885ff;
     transition: .5s all;
     -webkit-transition: .5s all;
     -moz-transition: .5s all;
@@ -2479,7 +2479,7 @@ form.contact-form .pad-bottom-bigger {
 
 #main_loader #lbPrevHov:hover:before,
 #main_loader #lbNextHov:hover:before {
-    color: #07cb79;
+    color: #0885ff;
     text-decoration: none;
 }
 
@@ -2593,7 +2593,7 @@ form.contact-form .pad-bottom-bigger {
     text-transform: uppercase;
     font-size: 16px;
     color: #fff;
-    background-color: #07cb79;
+    background-color: #0885ff;
     font-weight: 700;
     padding: 14px 27px;
     border: 1px solid transparent;
@@ -2604,7 +2604,7 @@ form.contact-form .pad-bottom-bigger {
 }
 
 .blog-inner .more-blog:hover {
-    border: 1px solid #07cb79;
+    border: 1px solid #0885ff;
     color: #727272;
     background: transparent;
 }
@@ -2630,7 +2630,7 @@ form.contact-form .pad-bottom-bigger {
 .loader,
 .loader:before,
 .loader:after {
-    background: #07cb79;
+    background: #0885ff;
     -webkit-animation: loadin 1s infinite ease-in-out;
     animation: loadin 1s infinite ease-in-out;
     width: 1em;
@@ -2652,7 +2652,7 @@ form.contact-form .pad-bottom-bigger {
 }
 
 .loader {
-    color: #07cb79;
+    color: #0885ff;
     text-indent: -9999em;
     margin: 0 auto;
     /*position:relative;*/
@@ -2827,7 +2827,7 @@ form.contact-form .pad-bottom-bigger {
 }
 
 .blPager .pager li a:hover {
-    color: #07cb79;
+    color: #0885ff;
 }
 
 .blCmnts,
@@ -2886,7 +2886,7 @@ form.contact-form .pad-bottom-bigger {
 
 .blCmnts .blreply {
     display: inline-block;
-    background-color: #07cb79;
+    background-color: #0885ff;
     color: #fff;
     font-size: 14px;
     border: 1px solid transparent;
@@ -2905,7 +2905,7 @@ form.contact-form .pad-bottom-bigger {
 
 .blCmnts .blreply:hover,
 .blTags ul li a:hover {
-    border: 1px solid #07cb79;
+    border: 1px solid #0885ff;
     color: #727272;
     background-color: transparent
 }
@@ -3001,7 +3001,7 @@ form.contact-form .pad-bottom-bigger {
 
 .blCategory ul li a:hover,
 .blRecent ul li a:hover {
-    color: #07cb79;
+    color: #0885ff;
 }
 
 .blCategory ul li,
@@ -3041,7 +3041,7 @@ form.contact-form .pad-bottom-bigger {
 
 .blTags ul li a {
     display: inline-block;
-    background-color: #07cb79;
+    background-color: #0885ff;
     color: #fff;
     font-size: 18px;
     color: #fefefe;
@@ -3096,7 +3096,7 @@ form.contact-form .pad-bottom-bigger {
 }
 
 .blPost ul li a:hover h5 {
-    color: #07cb79;
+    color: #0885ff;
 }
 
 .blPost ul li {
@@ -3117,11 +3117,11 @@ form.contact-form .pad-bottom-bigger {
 }
 
 .blSearch input:focus {
-    outline: 1px solid #07cb79;
+    outline: 1px solid #0885ff;
 }
 
 .blSearch input::-moz-focus-inner {
-    outline: 1px solid #07cb79;
+    outline: 1px solid #0885ff;
 }
 
 .media-object img {
@@ -3164,7 +3164,7 @@ form.contact-form .pad-bottom-bigger {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     overflow: hidden;
     white-space: nowrap;
-    background: rgb(7, 203, 121);
+    background: #0885ff;
     visibility: hidden;
     opacity: 0;
     -webkit-transition: all 0.3s ease-out;
